@@ -4,7 +4,7 @@
   "description": "This project is based on the 'curso.dev' classes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "Rafael Lopes",
   "license": "MIT",
