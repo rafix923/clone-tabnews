@@ -4,7 +4,8 @@
   "description": "This project is based on the 'curso.dev' classes.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check":"prettier --check ."
   },
   "author": "Rafael Lopes",
   "license": "MIT",
